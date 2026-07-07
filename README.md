@@ -186,13 +186,13 @@ Delivery Time Prediction
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Delivery-Time-Prediction.git
+git clone https://github.com/Manojg14/delivery-time-prediction-linear-regression.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-cd Delivery-Time-Prediction
+cd delivery-time-prediction-linear-regression
 ```
 
 ### Install dependencies
